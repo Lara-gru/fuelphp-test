@@ -9,3 +9,5 @@ class Controller_Blog extends Controller
     
 }
 #wdev 78jugg
+
+#mary switch
