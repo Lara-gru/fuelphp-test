@@ -1,5 +1,4 @@
 <h2>Viewing <span class='muted'>#<?php echo $message->id; ?></span></h2>
-
 <p>
 	<strong>Name:</strong>
 	<?php echo $message->name; ?></p>
